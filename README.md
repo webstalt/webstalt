@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 #### Thanks for stopping by! 
 
-- 🔭 I’m currently working on working at the online school. Develop videoconferences and social network for the students,
-- 🌱 Studying at the Frontend masters,
+- 🔭 I've been developing videoconferences and social network using React.js and webRTC,
+- 🌱 Currently diving deeper in Solidity through the Frontend masters,
 - ⚡ Created the [development in the metaverse](https://skills.maff.io/metaverse) course (in russian)
 
 
@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 #### Спасибо, что заглянули на мою страницу
   
-  - Сейчас работаю в онлайн школе над видеоконференциями и соцсетью для учеников,
-  - Обучаюсь на frontend masters,
+  - Я работала в онлайн-школе над видеоконференциями и соцсетью (react/redux и webRTC основной стек),
+  - Изучаю разработку на solidity с frontend masters,
   - Выпустила курс [по разработке в метавселенных](https://skills.maff.io/metaverse)
 
 </p>
