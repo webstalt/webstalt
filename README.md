@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 #### Thanks for stopping by! 
 
 - 🔭 I've been developing videoconferences and social network using React.js and webRTC,
-- 🌱 Currently diving deeper in Solidity through the Frontend masters,
+- 🌱 Currently I'm a Frontend developer, inspired by metaverses, participate in hackathons on this topic,
 - ⚡ Created the [development in the metaverse](https://skills.maff.io/metaverse) course (in russian)
 
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 #### Спасибо, что заглянули на мою страницу
   
   - Я работала в онлайн-школе над видеоконференциями и соцсетью (react/redux и webRTC основной стек),
-  - Изучаю разработку на solidity с frontend masters,
+  - Работаю фронтендером и вдохновляюсь развитием метавселенных, участвую в хакатонах по ним,
   - Выпустила курс [по разработке в метавселенных](https://skills.maff.io/metaverse)
 
 </p>
